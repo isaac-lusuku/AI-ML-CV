@@ -1,0 +1,16 @@
+/HACKATHON/TASK_ONE/yolov9c.pt
+/HACKATHON/TASK_ONE/label_train.csv
+/HACKATHON/BODY_SCORES/model.h5
+/OPENCV/Assets/
+/RNN CODE/aclImdb/
+/site/
+/venv/
+/Waste segmentation/Waste-classifier.h5
+/Waste segmentation/Waste-classifier-retrained.h5
+/Waste segmentation/Waste-classifier-retrained-specific-class.h5
+/animal_body_score.ipynb
+/animal_score_final.ipynb
+/drowsy detection/Non Drowsy/
+/drowsy detection/Drowsy/
+/courses/
+/.idea/
